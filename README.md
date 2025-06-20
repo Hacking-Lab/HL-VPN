@@ -1,10 +1,10 @@
 # Introduction
 If you need a reverse-shell from one of the vulnerable Hacking-Lab services back to your local computer, you must connect to our vulnerable systems using OpenVPN. The vulnerable services are firewalled and therefore you cannot connect back to an internet ip address.
 
-## VPN via GUI
+## VPN via GUI with Kookarai Pentesting Linux
 https://youtu.be/ZJcj3bHJO0Q
 
-## VPN via CLI
+## VPN via CLI with Kookarai Pentesting Linux
 https://youtu.be/O3Nrc1j7VUg
 
 ## Pre-Requirement
